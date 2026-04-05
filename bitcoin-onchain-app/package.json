@@ -10,21 +10,21 @@
   },
   "dependencies": {
     "@coinbase/onchainkit": "latest",
-    "@tanstack/react-query": "^5.81.5",
-    "next": "^15.3.9",
+    "@tanstack/react-query": "^5.96.2",
+    "next": "^15.5.14",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "viem": "^2.31.6",
-    "wagmi": "^2.16.3"
+    "viem": "^2.47.10",
+    "wagmi": "^2.19.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@next/eslint-plugin-next": "^15.3.9",
+    "@next/eslint-plugin-next": "^15.5.14",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "^15.3.9",
+    "eslint-config-next": "^15.5.14",
     "typescript": "^5"
   }
 }
